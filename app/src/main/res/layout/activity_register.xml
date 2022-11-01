@@ -44,6 +44,7 @@
             android:textColor="@color/white"/>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/reusername"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:cardCornerRadius="40dp"
@@ -60,6 +61,7 @@
         </androidx.cardview.widget.CardView>
 
         <TextView
+            android:id="@+id/email"
             android:layout_marginTop="32dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -104,6 +106,7 @@
             android:backgroundTint="@color/white">
 
             <TextView
+                android:id="@+id/repassword"
                 android:layout_margin="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -131,6 +134,7 @@
             android:backgroundTint="@color/white">
 
             <TextView
+                android:id="@+id/rekonpassword"
                 android:layout_margin="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -153,21 +157,23 @@
         android:layout_marginTop="32dp">
 
         <TextView
+            android:id="@+id/buttonregister"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="REGISTER"
-            android:fontFamily="@font/redhatdisplay_regular"
-            android:textStyle="bold"
-            android:textSize="12pt"
-            android:textColor="@color/white"
             android:layout_marginStart="18dp"
-            android:layout_marginEnd="18dp"
             android:layout_marginTop="8dp"
-            android:layout_marginBottom="8dp"/>
+            android:layout_marginEnd="18dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/redhatdisplay_regular"
+            android:text="REGISTER"
+            android:textColor="@color/white"
+            android:textSize="12pt"
+            android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
 
     <TextView
+        android:id="@+id/buttonsudah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sudah punya akun?"
