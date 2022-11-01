@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/drawable/rounded_outline.xml" value="0.2035" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_chat_juned.xml" value="0.1" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_forget_pass.xml" value="0.2" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_input_profile2.xml" value="0.2" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_login.xml" value="0.1634963768115942" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_lupa_password_result.xml" value="0.2" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.1634963768115942" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.1634963768115942" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Aidaa/Semester 5/NgobrolKuy/app/src/main/res/layout/activity_splash.xml" value="0.2" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
